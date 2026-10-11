@@ -56,7 +56,6 @@ PythonProject6/
 ├── nltk_setup.py      # one-time download of NLTK data
 ├── emails_V2.csv      # dataset
 ├── spam_model.pkl     # saved model (created by main.py)
-├── requirements.txt   # libraries
 └── README.md
 ```
 
